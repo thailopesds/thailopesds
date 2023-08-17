@@ -1,9 +1,11 @@
 ## Olá, eu sou Thaísa 😉
-### E sou paixonada por Tecnologia e Qualidade de Software
+### Apaixonada por Tecnologia e Qualidade de Software.
 
 <br>
 
-Sou formada em Marketing e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Atuo como Analista de Suporte, realizando testes exploratórios e funcionais em E-commerces e aplicativos. Tenho experiência como Analista de Testes QA freelancer e atuei em diversos projetos nas áreas da educação, finanças e serviços.
+Sou formada em Marketing e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Realizo testes exploratórios e funcionais em plataformas de E-commerce e aplicativos, na posição de Analista de Suporte e tenho experiência como Analista de Testes Freelancer, onde atuei em diversos projetos nas áreas da educação, finanças e serviços.
+
+No momento, estudo sobre automação de testes e programação nas plataformas Alura e Qualiters Club.
 
 <br>
 
