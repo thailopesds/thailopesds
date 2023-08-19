@@ -57,3 +57,4 @@ No momento, estudo sobre automação de testes e programação nas plataformas A
 ---
 
 ![Thaisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thailopesds&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thailopesds&show_icons=true&theme=radical)](https://github.com/thailopesds/github-readme-stats)
