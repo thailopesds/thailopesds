@@ -3,9 +3,9 @@
 
 <br>
 
-Sou formada em Marketing e atualmente estou cursando o Análise e Desenvolvimento de Sistemas. Realizo testes exploratórios e funcionais em plataformas de E-commerce e aplicativos como Analista de Testes Freelancer, onde atuei em diversos projetos nas áreas da educação, finanças e serviços. 
+Sou formada em Análise e Desenvolvimento de Sistemas. Tenho conhecimentos na elaboração de planos de teste, com levantamento e modelagem de cenários e casos de teste, utilizando a escrita Gherkin, além da criação de evidências e documentação de bugs e melhorias. Atualmente, realizo testes manuais, funcionais, caixa preta, usabilidade e regressão em plataformas de E-commerce e aplicativos, como Analista de Testes Freelancer, onde já atuei em diversos projetos nas áreas da educação, saúde e fintechs de grandes empresas. 
 
-No momento, estudo sobre automação de testes e programação nas plataformas Alura e Qualiters Club.
+No momento, estudo sobre automação de testes web com Cypress, testes de integração com Postman e participo de um Bootcamp sobre a linguagem Java. 
 
 <br>
 
@@ -17,14 +17,6 @@ No momento, estudo sobre automação de testes e programação nas plataformas A
 <br>
 
 ## **Skills**
-
-<br>
-
-### UI / UX
----
-
-[![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-[![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
 <br>
 
