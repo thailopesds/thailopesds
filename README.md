@@ -3,9 +3,9 @@
 
 <br>
 
-Sou formada em Análise e Desenvolvimento de Sistemas. Tenho conhecimentos na elaboração de planos de teste, com levantamento e modelagem de cenários e casos de teste, utilizando a escrita Gherkin, além da criação de evidências e documentação de bugs e melhorias. Atualmente, realizo testes manuais, funcionais, caixa preta, usabilidade e regressão em plataformas de E-commerce e aplicativos, como Analista de Testes Freelancer, onde já atuei em diversos projetos nas áreas da educação, saúde e fintechs de grandes empresas. 
+Sou formada em Marketing e Análise e Desenvolvimento de Sistemas. Tenho conhecimentos na elaboração de planos de teste, com levantamento e modelagem de cenários e casos de teste, utilizando a escrita Gherkin, além da criação de evidências e documentação de bugs e melhorias. Atualmente, realizo testes manuais, funcionais, caixa preta, usabilidade e regressão em plataformas de E-commerce e aplicativos, como Analista de Testes Freelancer, onde já atuei em diversos projetos nas áreas da educação, saúde e fintechs de grandes empresas. 
 
-No momento, estudo sobre automação de testes web com Cypress, testes de integração com Postman e participo de um Bootcamp sobre a linguagem Java. 
+No momento, estudo sobre automação de testes web com Cypress, testes de integração com Postman e participo de um Bootcamp para aprender a linguagem Java. 
 
 <br>
 
